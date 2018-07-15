@@ -1,4 +1,2 @@
 add-michepriest.txt
 michepriest
-'keep on keepin on'
-still going
